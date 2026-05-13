@@ -44,3 +44,5 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 !pets_place_pro.apk
+!releases/
+!releases/*.apk
